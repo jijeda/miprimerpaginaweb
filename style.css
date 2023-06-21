@@ -113,3 +113,6 @@ button{
   display: flex;
   justify-content: space-between;
   }
+  .greeting{
+    text-align: center;
+  }
